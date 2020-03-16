@@ -10,3 +10,4 @@ public class HowAreYou1 {
 
 }
 
+//예제에서는 Scanner만 사용되었기 때문에 Scanner만 import하는 거지, 나머지 클래스들도 import하는 것이 아님.
