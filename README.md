@@ -17,6 +17,7 @@
 내부에 상태를 갖지 않고 클래스 메소드만을 제공하는 클래스를 **유틸리티 클래스**라고 한다. ex) Math.max(a,b) 
 
 클래스 선언 내의 { } 는 인스턴스 초기화자이다. 인스턴스 초기화자는 생성자의 **선두**에서 자동으로 호출. 클래스 내의 모든 생성자에서 공통으로 실행해야 될 처리는 인스턴스 초기화자로 독립
+
 ex) class example{ 
 {   private int count=0;                                             private int count=0;
     private int id;                                                  private int id;
